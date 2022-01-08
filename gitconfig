@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sfong.ima@gmail.com
+	name = Sherman Fong
